@@ -8,6 +8,11 @@ Recovered over a decade of personal media files from a legacy 4TB hard drive usi
 Successfully recovered lost media and document files from a ~14–15-year-old 4TB external hard drive using MiniTool Data Recovery and Windows native tools (`diskpart`, `chkdsk`). This project showcases my hands-on skills in data recovery, system tools, and file integrity validation.
 
 ---
+### **Personal Reflection**
+
+This project was more than just a technical exercise — it was a meaningful dive into my own digital past. Recovering files from a drive I bought as a teenager reminded me how far I’ve come, both personally and professionally. What started as curiosity quickly turned into a valuable hands-on learning experience in system tools, data structures, and file recovery. It reminded me of the importance of backing up data, the power of free tools, and how much you can learn by just jumping in and troubleshooting with what you have. I’m proud of what I was able to recover — and even prouder of how I approached the challenge.
+
+---
 
 ### **Background:**
 
